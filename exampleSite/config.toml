@@ -22,7 +22,7 @@ weight = 4
 [params]
 address = ""
 author = "Liucija Paniuskyte"
-copyright = ""
+copyright = "Copyright © 2021 All Rights Reserved"
 description = ""
 email = "liucijapp@email.com"
 google_analytics_id = ""
