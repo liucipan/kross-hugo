@@ -83,7 +83,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -134,5 +134,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
