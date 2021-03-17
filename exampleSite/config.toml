@@ -37,7 +37,7 @@ form_action = "#"
 enable = true
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -62,7 +62,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "#facebook.com/liucipan"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
