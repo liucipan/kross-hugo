@@ -2,7 +2,7 @@ baseURL = "https://liucipan.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Liucija Paniuskyte - Multimedia Artist"
+title = "Liuci(ja)Pan(iuskyte)"
 [[menu.main]]
 URL = "about"
 name = "About"
