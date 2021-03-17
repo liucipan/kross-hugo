@@ -56,7 +56,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
+URL = "www.facebook.com/liucipan"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
