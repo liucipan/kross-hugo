@@ -2,7 +2,7 @@ baseURL = "https://liucipan.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "LIUCI(ja)PAN(iuskyte)"
+title = "LiuciPan"
 [[menu.main]]
 URL = "about"
 name = "About"
