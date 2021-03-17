@@ -1,4 +1,4 @@
-baseURL = "https://liucipan.me"
+baseURL = "http://liucipan.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
